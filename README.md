@@ -19,6 +19,9 @@ This is a simple student management system implemented in Python. It allows you 
 - Display all students
 - In-memory database for storing student data
 
-## Installation
+## Installation of python on your pc
 
-1. Clone the repository:
+- download the latest python(python 3.0)
+- run the executable file
+- add a python path(optional) or follow the steps
+- verify it was install properly by running simple hello world 
